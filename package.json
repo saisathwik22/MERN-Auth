@@ -2,9 +2,9 @@
   "name": "mern-auth",
   "version": "1.0.0",
   "description": "Authentication for MERN\r Sai sathwik reddy\r Building authentication dashboard through MERN.",
-  "main": "index.js",
+  "main": "backend/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon backend/index.js"
   },
   "keywords": [],
   "author": "",
